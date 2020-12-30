@@ -1,0 +1,149 @@
+.top {
+  background-color: #E4F9F5;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  color:#40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 20px auto 0 auto;
+  font-size: 5.25rem;
+  color: #66BFBF;
+  font-family: 'Merienda', cursive;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+  font-family: 'Handlee', cursive;
+  padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Handlee', cursive;
+    color:#11999E;
+  }
+
+h4 {
+  font-family: 'Just Another Hand', cursive;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 5%;
+  border-width: 5px;
+  margin: 100px auto;
+
+}
+p{
+  line-height: 2;
+ }
+
+
+a{
+  color:#11999E;
+ font-family: 'Handlee', cursive;
+ text-decoration: none;
+ margin:10px 20px;
+}
+a:hover
+{
+  color: #eaf6f6;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+     line-height: 2;
+}
+.middle-container {
+padding: 100px 0 50px 0;
+
+}
+
+.product {
+  text-decoration: underline;
+}
+
+.bottomcloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  top: 100px;
+  left: 75%;
+}
+.migskill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.mfskill{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.myintro{
+  color:#40514E;
+  width: 25%;
+  margin: auto;
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.footer-link{
+  color: #11999E;
+  right: 40px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Handlee', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me{
+
+margin: 50px auto 50px auto;
+
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
